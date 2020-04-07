@@ -7,3 +7,5 @@ Edge Detection with Canny Operator
 Using openCV's haar cascades, we find faces in an ongoing video
 ## SavingVideoInput
 Saving images from webcam(frames in video) into a .avi file 
+## VideoToFrames
+Extracting all frames from a video and saving them as .jpg
